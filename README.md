@@ -90,9 +90,3 @@ This is separate from rules - rules are intended to be boring and take care of t
 
 ### 9. Additional Circumstances
 * If a majority of the admins approve, any action may be taken and will be accompanied by a subreddit post outlining the action and reasoning
-	
-<style type="text/css">
-    ul { list-style-type: lower-alpha; }
-    ul ul { list-style-type: lower-roman; }
-    ul ul ul { list-style-type: upper-alpha; }
-</style>
