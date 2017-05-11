@@ -75,6 +75,7 @@ This is separate from rules - rules are intended to be boring and take care of t
 	* Players left over from the draft/signed up as free agents prior to the season
 	* Players from disbanded teams that were not the cause of the disband
 	* Players that signed up as free agents during the season
+
 ### 7. Conduct
 
 * Flaming is part of DOTA2, but repeated conduct (in games, discord, subreddit, or anywhere) that violates the below standards may result in removal from the league:
@@ -83,10 +84,12 @@ This is separate from rules - rules are intended to be boring and take care of t
 	* No tactical fake GG calls (BM fake GG calls are allowed)
 
 ### 8. Postseason
+
 * Teams will be seeded into 4-team brackets based on the following:
 	* W-L record
 	* Strength of schedule
 	* Number of standins used (fewer is better)
 
 ### 9. Additional Circumstances
+
 * If a majority of the admins approve, any action may be taken and will be accompanied by a subreddit post outlining the action and reasoning
