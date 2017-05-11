@@ -7,11 +7,11 @@ This is separate from rules - rules are intended to be boring and take care of t
 ### 1. How Teams Form
 
 * Prior to the season, individuals sign up as a captain, player, free agent, or standin - this is not a league for pre-made teams.
-* All signups must be vouched by an admin for conduct and activity.
+* All signups must be vouched by an admin for conduct and activity
 * Captains select 5 other players for their team in a player draft on (X-7 date) outlined here:
 		* Captains are seeded into a preliminary draft order roughly based on MMR (Lowest to highest).
 		* After each round, the draft order is revised - the average MMR of the team drafted up to that point is used (lowest to highest).
-* During the season, free agents may be added to teams that lose players.
+* During the season, free agents may be added to teams that lose players
 
 ### 2. Regular Season
 
@@ -59,7 +59,7 @@ This is separate from rules - rules are intended to be boring and take care of t
 	* All chat is still allowed for purposes of calling real GG
 * The “Away” team (listed second in the matchups) has choice of side or pick in game 1 and the “Home” team has choice of side or pick in game 2
 * Teams are not allowed to “stream cheat” in any way - no player currently in a game may view a stream of the game, spectate the game, or communicate with anyone doing so
-* Team members not playing are permitted in the coach slot, but are not allowed to ping or communicate with the team in any way
+* Team members not playing are permitted to be in a caster slot in the lobby, but are not allowed to communicate with the team
 
 ### 5. Standins
 
