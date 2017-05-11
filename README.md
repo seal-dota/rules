@@ -1,6 +1,8 @@
 # SEAL Dota Season 1 Rules
 
-## How it works (separate from rules - rules are intended to be boring and take care of the details, not everyone’s going to read the rules.  How it works should be something everyone does read and should be easy to understand)
+## How it works
+
+This is separate from rules - rules are intended to be boring and take care of the details - not everyone’s going to read all of the rules. How it works should be something everyone does read and should be easy to understand.
 
 ### 1. How Teams Form
 
