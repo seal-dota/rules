@@ -47,10 +47,10 @@
 
 * All games are to be played on the USW server and in Captains Mode, hosted by one of the captains on the SEAL ticket
 * Games must start on time - below are the penalties for being late:
-	* 8:05pm or later - Level 1 draft penalty
-	* 8:10pm or later - Level 2 draft penalty
-	* 8:15pm or later - Level 3 draft penalty
-	* 8:20pm or later - Forfeit both games
+	* 7:05pm or later - Level 1 draft penalty
+	* 7:10pm or later - Level 2 draft penalty
+	* 7:15pm or later - Level 3 draft penalty
+	* 7:20pm or later - Forfeit both games
 * If both captains agree on a different start time or date, these same penalties apply to the agreed-upon match time.
 * Each team is allowed 10 minutes of pause time per game.
 * All chat is allowed, unless either captain requests no all chat.
