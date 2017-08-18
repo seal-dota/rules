@@ -40,7 +40,7 @@
 
 ### 2. Participation
 
-* Each SEAL player is required to be in the official Discord channel. Contact an admin for an invite.
+* Each SEAL player is required to be in the official Discord server. Contact an admin for an invite.
 * Keeping up with every channel is not required, but it is highly recommended that alerts are left on in the Announcements channel, and that the channel is checked at least once per week.
 * Every player on a team’s roster must play in at least 1 game of the bo2 each week, if available.
 
