@@ -95,7 +95,7 @@
 
 * As noted earlier, each new player must be vouched by an admin or veteran of the league.
 * To vouch a player, sign in to seal.gg and find their signup in the unvouched player list and click "vouch." Doing so will record that the player has been vouched by you.
-* Vouching a player makes you responsible for that player's behaviour. If a player leaves the league midseason without consulting an admin, or is removed from the league for any reason, a strike will be recorded against the voucher. Any player with 2 strikes will be disallowed from vouching future players.
+* Vouching a player makes you responsible for that player's behaviour. If a player leaves the league midseason without consulting an admin, or is removed from the league for any reason, a strike will be recorded against the voucher. Any player with 2 strikes may be disallowed from vouching future players.
 
 ### 10. Additional Circumstances
 
