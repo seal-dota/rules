@@ -1,11 +1,11 @@
-# SEAL Dota Season 1 Rules
+# SEAL Dota Season 2 Rules
 
 ## *How it works*
 
 ### 1. How Teams Form
 
 * Prior to the season, individuals sign up as a captain, player, free agent, or standin - this is not a league for pre-made teams.
-* All signups must be vouched by an admin for conduct and activity.
+* All signups must be vouched by an admin or veteran player for conduct and activity.
 * Captains select 5 other players for their team in a player draft on the first Sunday of the season:
 		1. Captains are seeded into a preliminary draft order roughly based on MMR (Lowest to highest).
 		2. After each round, the draft order is revised - the average MMR of the team drafted up to that point is used (lowest to highest).
@@ -13,45 +13,48 @@
 ### 2. Regular Season
 
 * The regular season is 8 weeks long, with a captain’s mode bo2 each week.
-* Matches are to begin by 7pm Pacific Time each Sunday.
+* Matches are to begin by 8pm Pacific Time each Sunday.
 * Matches may be rescheduled to a different time or day if both captains agree.
 * Teams will be matched against other teams that have a similar record each week.
 
 ### 3. Post Season
 
-* Teams will be seeded (based on regular season play) into 4 team bo3 brackets for 1st, 5th, 9th, etc.
-* There will be two weeks of play for each team.
-* For example, the two teams that lose first round in the 1st place bracket will play for 3rd place.
+* After the regular season matches are completed, the top 4 teams will be placed in a single elimination bracket.
+* Lower placing teams still interested in completing the last two weeks of play may be placed in a casual bracket with other active teams.
+* Teams will have one week to schedule and play their required matches. Each match must be completed by end of day on Sunday.
+
 
 ## *Rules*
 
 ### 1. Eligibility
 
+* All participants must be vouched by an admin or veteran player for activity and behavior through the website (seal.gg).
 * Participants must sign up with their main account. This account may not be used by any other player for the duration of the season.
-* Participants must alert the admins if their MMR may not accurately reflect their skill level.
+* Participants must alert the admins if their MMR does not accurately reflect their skill level.
+* Admins may adjust a player's MMR to be more accurate in these situations.
 * Accounts must have at least 10 dota games (excluding Ability Draft) in the month before draft day recorded on Dotabuff.
-* For Season 1, all participants must be vouched by an admin for activity and behavior.
-* Nobody should expect to miss more than 3 weeks in the season (including playoffs).
+* No one should expect to miss more than 3 weeks in the season (including playoffs).
 		1. If players expect inconsistent attendance for an upcoming season, they are encouraged to instead sign up as a standin or free agent, as appropriate.
+* Participants must have completed at least one previous season before signing up as a captain, unless they get permission from an admin (for example, exceptions may be made if the player was previously a captain in another league, such as RD2L or Echo League).
 * Nobody should be more cancerous than Aeosynth (he is the floor).
 
 ### 2. Participation
 
+* Each SEAL player is required to be in the official Discord channel. Contact an admin for an invite.
+* Keeping up with every channel is not required, but it is highly recommended that alerts are left on in the Announcements channel, and that the channel is checked at least once per week.
 * Every player on a team’s roster must play in at least 1 game of the bo2 each week, if available.
 
 ### 3. Player Trades
 
-* With approval from both captains, both players?, and the admins, players may be traded between teams within the first two weeks after the draft.
+* With approval from both captains, both players, and the admins, players may be traded between teams within the first two weeks after the draft.
 
 ### 4. Games
 
+* Games are to start by 8pm PST on Sundays, but may be rescheduled to any time beforehand if both captains agree.
 * All games are to be played on the USW server and in Captains Mode, hosted by one of the captains on the SEAL ticket
-* Games must start on time - below are the penalties for being late:
-	* 7:05pm or later - Level 1 draft penalty
-	* 7:10pm or later - Level 2 draft penalty
-	* 7:15pm or later - Level 3 draft penalty
-	* 7:20pm or later - Forfeit both games
-* If both captains agree on a different start time or date, these same penalties apply to the agreed-upon match time.
+* Games must start within 15 minutes of the agreed upon match time. 
+* If 15 minutes pass and a team is still incapable of playing, the team in full attendance may screenshot the lobby with a timestamp and report a forfeit. 
+* If 15 minutes pass and neither team is capable of playing, a double forfeit is issued.
 * Each team is allowed 10 minutes of pause time per game.
 * All chat is allowed, unless either captain requests no all chat.
 	* All chat is always allowed for purpose of calling GG.
@@ -62,8 +65,10 @@
 ### 5. Standins
 
 * A standin may be used to replace any player unable to attend a match each week.
-* Only one player may be replaced per match - if a team is incapable of fielding at least 4 players from their roster, they automatically forfeit their match.
-* Each standin must be of an MMR equal to or lower than the player they are replacing, as listed in the Adjusted MMR tab from the draft sheet.
+* Only one player may be replaced per match - if a team is missing more than 2 players from their active roster, they forfeit their match. 
+* Each standin must be within 100 MMR of the player they are replacing (or lower), as listed in the Adjusted MMR tab from the draft sheet.
+* Players not signed up for Season 2 may be used as standins if no other suitable replacement can be found and an admin approves the player.
+* A team replacing one of their players with a standin must inform the opposing captain of both the player they are missing and the standin they are replacing them with before the match begins.
 
 ### 6. Free Agents
 
@@ -75,17 +80,23 @@
 ### 7. Conduct
 
 * Flaming is part of DOTA2, but repeated conduct (in games, discord, subreddit, or anywhere) that violates the below standards may result in removal from the league:
-	* No hate speech (speech which attacks a person or group on the basis of attributes such as race, religion, ethnic origin, sexual orientation, disability, or gender)
-	* No cyber-bullying (for example, repeatedly telling someone to kill themselves)
-	* No tactical fake GG calls (BM fake GG calls are allowed)
+	* No hate speech (speech which attacks a person or group on the basis of attributes such as race, religion, ethnic origin, sexual orientation, disability, or gender).
+	* No cyber-bullying.
+	* No tactical fake GG calls (BM fake GG calls are allowed).
 
 ### 8. Postseason
 
-* Teams will be seeded into 4-team brackets based on the following:
-	* W-L record
-	* Strength of schedule
-	* Number of standins used (fewer is better)
+* The top 4 teams will be seeded into a single elimination bracket based on the following:
+	* W-L record.
+	* Strength of schedule.
+	* Number of standins used (fewer is better).
 
-### 9. Additional Circumstances
+### 9. Vouching
 
-* If a majority of the admins approve, any action may be taken and will be accompanied by a subreddit post outlining the action and reasoning.
+* As noted earlier, each new player must be vouched by an admin or veteran of the league.
+* To vouch a player, sign in to seal.gg and find their signup in the unvouched player list and click "vouch." Doing so will record that the player has been vouched by you.
+* Vouching a player makes you responsible for that player's behaviour. If a player leaves the league midseason without consulting an admin, or is removed from the league for any reason, a strike will be recorded against the voucher. Any player with 2 strikes will be disallowed from vouching future players.
+
+### 10. Additional Circumstances
+
+* If a majority of the admins approve, any action may be taken and will be accompanied by a post outlining the action and reasoning.
