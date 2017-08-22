@@ -13,7 +13,7 @@
 ### 2. Regular Season
 
 * The regular season is 8 weeks long, with a captain’s mode bo2 each week.
-* Matches are to begin by 8pm Pacific Time each Sunday.
+* Matches are to begin by 7:30pm Pacific Time each Sunday.
 * Matches may be rescheduled to a different time or day if both captains agree.
 * Teams will be matched against other teams that have a similar record each week.
 
@@ -49,11 +49,11 @@
 * Games are to start by 8pm PST on Sundays, but may be rescheduled to any time that week if both captains agree.
 * All games are to be played on the USW server and in Captains Mode, hosted by one of the captains or an admin on the SEAL ticket.
 * Penalties for tardiness are as follows, and may be enforced by the opposing captain as they see fit:
-	* Past 8:00 - Level 1 draft penalty.
-	* Past 8:05 - Level 2 draft penalty.
-	* Past 8:10 - Level 3 draft penalty.
-	* Past 8:15 - Game 1 forfeit. 
-	* Past 8:30 - Game 2 forfeit.
+	* Past 7:30 - Level 1 draft penalty.
+	* Past 7:35 - Level 2 draft penalty.
+	* Past 7:40 - Level 3 draft penalty.
+	* Past 7:45 - Game 1 forfeit. 
+	* Past 8:00 - Game 2 forfeit.
 * If 30 minutes pass and neither team is capable of playing, a double forfeit is issued.
 * Each team is allowed 10 minutes of pause time per game.
 * All chat is allowed, unless either captain requests no all chat.
