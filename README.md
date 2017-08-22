@@ -46,7 +46,7 @@
 
 ### 3. Games
 
-* Games are to start by 8pm PST on Sundays, but may be rescheduled to any time that week if both captains agree.
+* Games are to start by 7:30pm PST on Sundays, but may be rescheduled to any time that week if both captains agree.
 * All games are to be played on the USW server and in Captains Mode, hosted by one of the captains or an admin on the SEAL ticket.
 * Penalties for tardiness are as follows, and may be enforced by the opposing captain as they see fit:
 	* Past 7:30 - Level 1 draft penalty.
