@@ -44,13 +44,9 @@
 * Keeping up with every channel is not required, but it is highly recommended that alerts are left on in the Announcements channel, and that the channel is checked at least once per week.
 * Every player on a team’s roster must play in at least 1 game of the bo2 each week, if available.
 
-### 3. Player Trades
+### 3. Games
 
-* With approval from both captains, both players, and the admins, players may be traded between teams within the first two weeks after the draft.
-
-### 4. Games
-
-* Games are to start by 8pm PST on Sundays, but may be rescheduled to any time beforehand if both captains agree.
+* Games are to start by 8pm PST on Sundays, but may be rescheduled to any time that week if both captains agree.
 * All games are to be played on the USW server and in Captains Mode, hosted by one of the captains or an admin on the SEAL ticket.
 * Penalties for tardiness are as follows, and may be enforced by the opposing captain as they see fit:
 	* Past 8:00 - Level 1 draft penalty.
@@ -66,7 +62,7 @@
 * Teams are not allowed to “stream cheat” in any way - no player currently in a game may view a stream of the game, spectate the game, or communicate with anyone doing so.
 * Team members not playing are permitted to be in a caster slot in the lobby, but are not allowed to communicate with the team.
 
-### 5. Standins
+### 4. Standins
 
 * A standin may be used to replace any player unable to attend a match each week.
 * Only one player may be replaced per match - if a team is missing more than 2 players from their active roster, they forfeit their match. 
@@ -74,33 +70,33 @@
 * Players not signed up for Season 2 may be used as standins if no other suitable replacement can be found and an admin approves the player.
 * A team replacing one of their players with a standin must inform the opposing captain of both the player they are missing and the standin they are replacing them with before the match begins.
 
-### 6. Free Agents
+### 5. Free Agents
 
 * Free agents may be assigned by the admins with the following priority (assuming MMR is similar to the player being replaced):
 	* Players left over from the draft/signed up as free agents prior to the season.
 	* Players from disbanded teams that were not the cause of the disband.
 	* Players that signed up as free agents during the season.
 
-### 7. Conduct
+### 6. Conduct
 
 * Flaming is part of DOTA2, but repeated conduct (in games, discord, subreddit, or anywhere) that violates the below standards may result in removal from the league:
 	* No hate speech (speech which attacks a person or group on the basis of attributes such as race, religion, ethnic origin, sexual orientation, disability, or gender).
 	* No cyber-bullying.
 	* No tactical fake GG calls (BM fake GG calls are allowed).
 
-### 8. Postseason
+### 7. Postseason
 
 * The top 4 teams will be seeded into a single elimination bracket based on the following:
 	* W-L record.
 	* Strength of schedule.
 	* Number of standins used (fewer is better).
 
-### 9. Vouching
+### 8. Vouching
 
 * As noted earlier, each new player must be vouched by an admin or veteran of the league.
 * To vouch a player, sign in to seal.gg and find their signup in the unvouched player list and click "vouch." Doing so will record that the player has been vouched by you.
 * Vouching a player makes you responsible for that player's behaviour. If a player leaves the league midseason without consulting an admin, or is removed from the league for any reason, a strike will be recorded against the voucher. Any player with 2 strikes may be disallowed from vouching future players.
 
-### 10. Additional Circumstances
+### 9. Additional Circumstances
 
 * If a majority of the admins approve, any action may be taken and will be accompanied by a post outlining the action and reasoning.
