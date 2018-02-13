@@ -1,4 +1,4 @@
-# SEAL Dota Season 2 Rules
+# SEAL Dota Season 3 Rules
 
 ## *How it works*
 
