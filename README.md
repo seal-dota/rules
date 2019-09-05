@@ -32,6 +32,7 @@
 * Participants must sign up with their main account. This account may not be used by any other player for the duration of the season.
 * Participants must alert the admins if their Rank does not accurately reflect their skill level.
 * Admins may adjust a player's MMR to be more accurate in these situations.
+* There is a soft MMR-floor that players must adhere. Players must be at least 1500 MMR to play. Exceptions may be made in the case that the player has 25 games per month conistently in recent months leading up to the closing date of signups for that season.
 * Accounts must have at least 10 dota games (excluding Ability Draft) in the month before draft day recorded on Dotabuff.
 * No one should expect to miss more than 3 weeks in the season (including playoffs).
 		1. If players expect inconsistent attendance for an upcoming season, they are encouraged to instead sign up as a standin or free agent, as appropriate.
@@ -100,3 +101,5 @@
 ### 9. Additional Circumstances
 
 * If a majority of the admins approve, any action may be taken and will be accompanied by a post outlining the action and reasoning.
+
+
